@@ -5,7 +5,7 @@
 	<artifactId>springsession</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-
+	<!-- Added comment to test github webhook -->
 	<properties>
 		<springframework.version>4.1.6.RELEASE</springframework.version>
 		<springsecurity.version>3.2.7.RELEASE</springsecurity.version>
